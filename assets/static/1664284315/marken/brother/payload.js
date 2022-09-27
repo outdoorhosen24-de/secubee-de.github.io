@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/brother", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/brother-p-touch-h100r-beschriftungsgeraet-brother-6811954-1.jpg":"\u002Fassets\u002Fimages\u002Fbrother-p-touch-h100r-beschriftungsgeraet-brother-6811954-1.webp"}}],fetch:{},mutations:void 0});

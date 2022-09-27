@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/audio-video", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/schwaiger-digitale-sat-anlage-1tn-55-cm-schwaiger-3940202-1.jpg":"\u002Fassets\u002Fimages\u002Fschwaiger-digitale-sat-anlage-1tn-55-cm-schwaiger-3940202-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/optifit", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/daempfungssystem-fuer-tueren-optifit-2735397-1.jpg":"\u002Fassets\u002Fimages\u002Fdaempfungssystem-fuer-tueren-optifit-2735397-1.webp"}}],fetch:{},mutations:void 0});
