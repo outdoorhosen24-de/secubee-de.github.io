@@ -1,17 +1,17 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "reer",
+        "name": "Reer",
+        "slug": "reer",
+        "productCategory": "Reer",
+        "localThumb": "/assets/images/hersteller/reer.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "dolle",
+        "name": "Dolle",
+        "slug": "dolle",
+        "productCategory": "Dolle",
+        "localThumb": "/assets/images/hersteller/dolle.webp"
     },
     {
         "key": "sonstige",
@@ -21,11 +21,123 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "homematic ip",
+        "name": "Homematic IP",
+        "slug": "homematic-ip",
+        "productCategory": "Homematic IP",
+        "localThumb": "/assets/images/hersteller/homematic-ip.webp"
+    },
+    {
+        "key": "schellenberg",
+        "name": "Schellenberg",
+        "slug": "schellenberg",
+        "productCategory": "Schellenberg",
+        "localThumb": "/assets/images/hersteller/schellenberg.webp"
+    },
+    {
+        "key": "abus",
+        "name": "Abus",
+        "slug": "abus",
+        "productCategory": "Abus",
+        "localThumb": "/assets/images/hersteller/abus.webp"
+    },
+    {
+        "key": "bosch",
+        "name": "Bosch",
+        "slug": "bosch",
+        "productCategory": "Bosch",
+        "localThumb": "/assets/images/hersteller/bosch.webp"
+    },
+    {
+        "key": "burg wächter",
+        "name": "Burg Wächter",
+        "slug": "burg-waechter",
+        "productCategory": "Burg Wächter",
+        "localThumb": "/assets/images/hersteller/burg-waechter.webp"
+    },
+    {
+        "key": "smartwares",
+        "name": "Smartwares",
+        "slug": "smartwares",
+        "productCategory": "Smartwares",
+        "localThumb": "/assets/images/hersteller/smartwares.webp"
+    },
+    {
+        "key": "iseo",
+        "name": "Iseo",
+        "slug": "iseo",
+        "productCategory": "Iseo",
+        "localThumb": "/assets/images/hersteller/iseo.webp"
+    },
+    {
+        "key": "bosch professional",
+        "name": "Bosch Professional",
+        "slug": "bosch-professional",
+        "productCategory": "Bosch Professional",
+        "localThumb": "/assets/images/hersteller/bosch-professional.webp"
+    },
+    {
+        "key": "brother",
+        "name": "Brother",
+        "slug": "brother",
+        "productCategory": "Brother",
+        "localThumb": "/assets/images/hersteller/brother.webp"
+    },
+    {
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
+    },
+    {
+        "key": "yardforce",
+        "name": "Yardforce",
+        "slug": "yardforce",
+        "productCategory": "Yardforce",
+        "localThumb": "/assets/images/hersteller/yardforce.webp"
+    },
+    {
+        "key": "makita",
+        "name": "Makita",
+        "slug": "makita",
+        "productCategory": "Makita",
+        "localThumb": "/assets/images/hersteller/makita.webp"
+    },
+    {
+        "key": "schwaiger",
+        "name": "Schwaiger",
+        "slug": "schwaiger",
+        "productCategory": "Schwaiger",
+        "localThumb": "/assets/images/hersteller/schwaiger.webp"
+    },
+    {
+        "key": "worx",
+        "name": "Worx",
+        "slug": "worx",
+        "productCategory": "Worx",
+        "localThumb": "/assets/images/hersteller/worx.webp"
+    },
+    {
+        "key": "ei electronics",
+        "name": "Ei Electronics",
+        "slug": "ei-electronics",
+        "productCategory": "Ei Electronics",
+        "localThumb": "/assets/images/hersteller/ei-electronics.webp"
+    },
+    {
+        "key": "einhell",
+        "name": "Einhell",
+        "slug": "einhell",
+        "productCategory": "Einhell",
+        "localThumb": "/assets/images/hersteller/einhell.webp"
+    },
+    {
+        "key": "optifit",
+        "name": "Optifit",
+        "slug": "optifit",
+        "productCategory": "Optifit",
+        "localThumb": "/assets/images/hersteller/optifit.webp"
     },
     {
         "key": "obi",
@@ -35,52 +147,52 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "bever",
+        "name": "Bever",
+        "slug": "bever",
+        "productCategory": "Bever",
+        "localThumb": "/assets/images/hersteller/bever.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "rev",
+        "name": "REV",
+        "slug": "rev",
+        "productCategory": "REV",
+        "localThumb": "/assets/images/hersteller/rev.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "link2home",
+        "name": "Link2Home",
+        "slug": "link2home",
+        "productCategory": "Link2Home",
+        "localThumb": "/assets/images/hersteller/link2home.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "tfa",
+        "name": "TFA",
+        "slug": "tfa",
+        "productCategory": "TFA",
+        "localThumb": "/assets/images/hersteller/tfa.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "black+decker",
+        "name": "Black+Decker",
+        "slug": "black-decker",
+        "productCategory": "Black+Decker",
+        "localThumb": "/assets/images/hersteller/black-decker.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "hama",
+        "name": "Hama",
+        "slug": "hama",
+        "productCategory": "Hama",
+        "localThumb": "/assets/images/hersteller/hama.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "energizer",
+        "name": "Energizer",
+        "slug": "energizer",
+        "productCategory": "Energizer",
+        "localThumb": "/assets/images/hersteller/energizer.webp"
     }
 ]

@@ -1,107 +1,198 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "sicherheitstechnik",
+        "name": "Sicherheitstechnik",
+        "slug": "sicherheitstechnik",
+        "productCategory": "Sicherheitstechnik",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "kindersicherheit",
+        "name": "Kindersicherheit",
+        "slug": "kindersicherheit",
+        "productCategory": "Kindersicherheit",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "türschutzgitter & verlängerungen",
+        "name": "Türschutzgitter & Verlängerungen",
+        "slug": "turschutzgitter-verlangerungen",
+        "productCategory": "Türschutzgitter & Verlängerungen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "hausfunksteuerung",
+        "name": "Hausfunksteuerung",
+        "slug": "hausfunksteuerung",
+        "productCategory": "Hausfunksteuerung",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "hausautomation",
+        "name": "Hausautomation",
+        "slug": "hausautomation",
+        "productCategory": "Hausautomation",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "alarmanlagen",
+        "name": "Alarmanlagen",
+        "slug": "alarmanlagen",
+        "productCategory": "Alarmanlagen",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "brandschutz",
+        "name": "Brandschutz",
+        "slug": "brandschutz",
+        "productCategory": "Brandschutz",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "wetterstationen",
+        "name": "Wetterstationen",
+        "slug": "wetterstationen",
+        "productCategory": "Wetterstationen",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "kameraüberwachung & videoüberwachung",
+        "name": "Kameraüberwachung & Videoüberwachung",
+        "slug": "kamerauberwachung-videouberwachung",
+        "productCategory": "Kameraüberwachung & Videoüberwachung",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "türsicherung & fenstersicherung",
+        "name": "Türsicherung & Fenstersicherung",
+        "slug": "tursicherung-fenstersicherung",
+        "productCategory": "Türsicherung & Fenstersicherung",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "tresore",
+        "name": "Tresore",
+        "slug": "tresore",
+        "productCategory": "Tresore",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "profilzylinder",
+        "name": "Profilzylinder",
+        "slug": "profilzylinder",
+        "productCategory": "Profilzylinder",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "batterien & akkus",
+        "name": "Batterien & Akkus",
+        "slug": "batterien-akkus",
+        "productCategory": "Batterien & Akkus",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "akkus",
+        "name": "Akkus",
+        "slug": "akkus",
+        "productCategory": "Akkus",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "computer & multimedia",
+        "name": "Computer & Multimedia",
+        "slug": "computer-multimedia",
+        "productCategory": "Computer & Multimedia",
+        "subCategories": []
+    },
+    {
+        "key": "bürobedarf",
+        "name": "Bürobedarf",
+        "slug": "burobedarf",
+        "productCategory": "Bürobedarf",
+        "subCategories": []
+    },
+    {
+        "key": "riegel & sperren",
+        "name": "Riegel & Sperren",
+        "slug": "riegel-sperren",
+        "productCategory": "Riegel & Sperren",
+        "subCategories": []
+    },
+    {
+        "key": "audio & video",
+        "name": "Audio & Video",
+        "slug": "audio-video",
+        "productCategory": "Audio & Video",
+        "subCategories": []
+    },
+    {
+        "key": "sat anlagen",
+        "name": "SAT Anlagen",
+        "slug": "sat-anlagen",
+        "productCategory": "SAT Anlagen",
+        "subCategories": []
+    },
+    {
+        "key": "türschlösser & türtechnik",
+        "name": "Türschlösser & Türtechnik",
+        "slug": "turschlosser-turtechnik",
+        "productCategory": "Türschlösser & Türtechnik",
+        "subCategories": []
+    },
+    {
+        "key": "sicherungen & verschlüsse",
+        "name": "Sicherungen & Verschlüsse",
+        "slug": "sicherungen-verschlusse",
+        "productCategory": "Sicherungen & Verschlüsse",
+        "subCategories": []
+    },
+    {
+        "key": "türklingeln",
+        "name": "Türklingeln",
+        "slug": "turklingeln",
+        "productCategory": "Türklingeln",
+        "subCategories": []
+    },
+    {
+        "key": "batterien",
+        "name": "Batterien",
+        "slug": "batterien",
+        "productCategory": "Batterien",
+        "subCategories": []
+    },
+    {
+        "key": "vorhängeschlösser",
+        "name": "Vorhängeschlösser",
+        "slug": "vorhangeschlosser",
+        "productCategory": "Vorhängeschlösser",
+        "subCategories": []
+    },
+    {
+        "key": "thermometer",
+        "name": "Thermometer",
+        "slug": "thermometer",
+        "productCategory": "Thermometer",
+        "subCategories": []
+    },
+    {
+        "key": "telefone",
+        "name": "Telefone",
+        "slug": "telefone",
+        "productCategory": "Telefone",
+        "subCategories": []
+    },
+    {
+        "key": "handy-zubehör",
+        "name": "Handy-Zubehör",
+        "slug": "handy-zubehor",
+        "productCategory": "Handy-Zubehör",
+        "subCategories": []
+    },
+    {
+        "key": "kabel für computer & multimedia",
+        "name": "Kabel für Computer & Multimedia",
+        "slug": "kabel-fur-computer-multimedia",
+        "productCategory": "Kabel für Computer & Multimedia",
         "subCategories": []
     }
 ]
