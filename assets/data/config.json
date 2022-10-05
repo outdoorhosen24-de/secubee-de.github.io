@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "secubee.de",
+    "hostname": "https://www.secubee.de/",
+    "email": "secubee.desurrealnetworks.io",
+    "organization": "secubee.de",
+    "logoText": "Secubee.de",
+    "title": "Sicherheit & Haustechnik",
+    "subline": "Der Online Shop f\u00fcr Sicherheit & Haustechnik",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "4911343",
+        "4911269",
+        "4911285",
+        "5080742",
+        "3513314",
+        "4158705"
+    ],
+    "winnerProducts": [
+        "4322541",
+        "2598795",
+        "4938346"
+    ],
+    "featuredCategories": [
+        "Computer & Multimedia",
+        "Sicherheitstechnik",
+        "Akkus",
+        "Computer & Multimedia",
+        "Brandschutz",
+        "Thermometer"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Sicherheit & Haustechnik",
-        "featureText": "Your featured text goes here",
+        "featureText": "Sicherheit & Haustechnik ist ein Fachgesch\u00e4ft f\u00fcr Sicherheitstechnik und Haustechnik. Wir bieten eine gro\u00dfe Auswahl an Sicherheits- und Haustechnikprodukten. Unsere Produkte sind f\u00fcr Privat- und Gewerbezwecke geeignet. Wir beraten Sie gerne bei der Auswahl der richtigen Produkte f\u00fcr Ihre Bed\u00fcrfnisse.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Sicherheit & Haustechnik - alles f\u00fcr Ihr Zuhause",
+            "metaDescription": "Sicherheit & Haustechnik - alles f\u00fcr Ihr Zuhause. Rund um die Uhr sicher und komfortabel.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Sicherheit & Haustechnik: Wie Sie Ihr Zuhause sicherer machen",
+                    "text": "Sicherheit und Haustechnik\n\nIn unserem t\u00e4glichen Leben spielen Sicherheit und Haustechnik eine entscheidende Rolle. Wir m\u00f6chten uns in unserem Zuhause wohlf\u00fchlen und sicher sein, dass alles funktioniert. Doch was ist, wenn etwas schief geht?\n\nEin defekter Herd, ein undichtes Dach oder ein verstopfter Abfluss k\u00f6nnen schnell zu einem echten Problem werden. Daher ist es wichtig, sich im Vorfeld gut zu informieren und die richtigen Produkte f\u00fcr die Sicherheit und Haustechnik auszuw\u00e4hlen.\n\nIn unserem Sortiment finden Sie alles, was Sie f\u00fcr Ihr Zuhause ben\u00f6tigen. Vom Feuerl\u00f6scher \u00fcber die Rauchmelder bis hin zur \u00dcberwachungskamera haben wir alles, was Sie f\u00fcr Ihre Sicherheit brauchen.\n\nAuch f\u00fcr die Haustechnik sind wir bestens ausgestattet. Ob Sie einen neuen Boiler, eine Heizung oder eine Solaranlage ben\u00f6tigen \u2013 bei uns finden Sie alles, was Sie f\u00fcr Ihr Zuhause brauchen.\n\nWir beraten Sie gerne und finden gemeinsam mit Ihnen die perfekte L\u00f6sung f\u00fcr Ihr Zuhause. Sicherheit und Haustechnik m\u00fcssen nicht teuer sein \u2013 bei uns finden Sie die besten Produkte zu g\u00fcnstigen Preisen."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Sicherheit & Haustechnik shop",
+            "metaDescription": "Im Shop findest du alles rund um Sicherheit und Haustechnik. Vom Alarmsystem bis zur \u00dcberwachungskamera ist alles dabei.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Sicherheit & Haustechnik - manufacturer",
+            "metaDescription": "Sicherheit & Haustechnik - Wir sind ein f\u00fchrender Hersteller von Sicherheits- und Haustechnikprodukten. Unsere Produkte sind f\u00fcr Ihre Sicherheit und Komfort konzipiert.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Sicherheit & Haustechnik: $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl f\u00fcr Ihre Sicherheit & Haustechnik. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Sicherheit & Haustechnik: $KATEGORIE",
+        "defaultMetaDescription": "Sicherheit & Haustechnik: Finden Sie alles rund um die Themen $KATEGORIE und Haustechnik. Von Tipps und Tricks bis hin zu Produktvorstellungen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Partner f\u00fcr Sicherheit und Haustechnik. Wir beraten und unterst\u00fctzen Sie bei der Planung und Umsetzung Ihrer Projekte.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Sicherheit & Haustechnik",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Sicherheit & Haustechnik Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Sicherheit & Haustechnik Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
