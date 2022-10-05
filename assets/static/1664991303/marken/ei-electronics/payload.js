@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/ei-electronics", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/ei-electronics-rauchmelder-ei650-mit-10-jahres-batterie-ei-electronics-5693585-1.jpg":"\u002Fassets\u002Fimages\u002Fei-electronics-rauchmelder-ei650-mit-10-jahres-batterie-ei-electronics-5693585-1.webp"}}],fetch:{},mutations:void 0});

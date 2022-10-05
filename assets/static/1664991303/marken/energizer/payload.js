@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/energizer", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/energizer-batterie-alkaline-power-9v-e-block-1-stueck-energizer-5264833-1.jpg":"\u002Fassets\u002Fimages\u002Fenergizer-batterie-alkaline-power-9v-e-block-1-stueck-energizer-5264833-1.webp"}}],fetch:{},mutations:void 0});

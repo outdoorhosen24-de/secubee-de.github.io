@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/sicherungen-verschlusse", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-steckdosensicherung-6er-set-obi-7292451-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-steckdosensicherung-6er-set-obi-7292451-1.webp"}}],fetch:{},mutations:void 0});

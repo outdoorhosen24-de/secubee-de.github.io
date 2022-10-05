@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/link2home", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/link2home-wifi-gartensteckdose-2-fach-mit-erdspiesz-link2home-3660925-1.jpg":"\u002Fassets\u002Fimages\u002Flink2home-wifi-gartensteckdose-2-fach-mit-erdspiesz-link2home-3660925-1.webp"}}],fetch:{},mutations:void 0});

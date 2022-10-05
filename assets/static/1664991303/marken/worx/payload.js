@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/worx", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/worx-20-v-6-ah-li-ion-ersatzakku-wa3641-worx-7942113-1.jpg":"\u002Fassets\u002Fimages\u002Fworx-20-v-6-ah-li-ion-ersatzakku-wa3641-worx-7942113-1.webp"}}],fetch:{},mutations:void 0});
