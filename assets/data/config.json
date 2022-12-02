@@ -51,12 +51,15 @@
             "title": "Sicherheit & Haustechnik - alles für Ihr Zuhause",
             "metaDescription": "Sicherheit & Haustechnik - alles für Ihr Zuhause. Rund um die Uhr sicher und komfortabel.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Sicherheit & Haustechnik: Wie Sie Ihr Zuhause sicherer machen",
-                    "text": "Sicherheit und Haustechnik\n\nIn unserem täglichen Leben spielen Sicherheit und Haustechnik eine entscheidende Rolle. Wir möchten uns in unserem Zuhause wohlfühlen und sicher sein, dass alles funktioniert. Doch was ist, wenn etwas schief geht?\n\nEin defekter Herd, ein undichtes Dach oder ein verstopfter Abfluss können schnell zu einem echten Problem werden. Daher ist es wichtig, sich im Vorfeld gut zu informieren und die richtigen Produkte für die Sicherheit und Haustechnik auszuwählen.\n\nIn unserem Sortiment finden Sie alles, was Sie für Ihr Zuhause benötigen. Vom Feuerlöscher über die Rauchmelder bis hin zur Überwachungskamera haben wir alles, was Sie für Ihre Sicherheit brauchen.\n\nAuch für die Haustechnik sind wir bestens ausgestattet. Ob Sie einen neuen Boiler, eine Heizung oder eine Solaranlage benötigen – bei uns finden Sie alles, was Sie für Ihr Zuhause brauchen.\n\nWir beraten Sie gerne und finden gemeinsam mit Ihnen die perfekte Lösung für Ihr Zuhause. Sicherheit und Haustechnik müssen nicht teuer sein – bei uns finden Sie die besten Produkte zu günstigen Preisen."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Sicherheit & Haustechnik: Wie Sie Ihr Zuhause sicherer machen",
+                        "text": "Sicherheit und Haustechnik\n\nIn unserem täglichen Leben spielen Sicherheit und Haustechnik eine entscheidende Rolle. Wir möchten uns in unserem Zuhause wohlfühlen und sicher sein, dass alles funktioniert. Doch was ist, wenn etwas schief geht?\n\nEin defekter Herd, ein undichtes Dach oder ein verstopfter Abfluss können schnell zu einem echten Problem werden. Daher ist es wichtig, sich im Vorfeld gut zu informieren und die richtigen Produkte für die Sicherheit und Haustechnik auszuwählen.\n\nIn unserem Sortiment finden Sie alles, was Sie für Ihr Zuhause benötigen. Vom Feuerlöscher über die Rauchmelder bis hin zur Überwachungskamera haben wir alles, was Sie für Ihre Sicherheit brauchen.\n\nAuch für die Haustechnik sind wir bestens ausgestattet. Ob Sie einen neuen Boiler, eine Heizung oder eine Solaranlage benötigen – bei uns finden Sie alles, was Sie für Ihr Zuhause brauchen.\n\nWir beraten Sie gerne und finden gemeinsam mit Ihnen die perfekte Lösung für Ihr Zuhause. Sicherheit und Haustechnik müssen nicht teuer sein – bei uns finden Sie die besten Produkte zu günstigen Preisen."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Sicherheit & Haustechnik shop",
