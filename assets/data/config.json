@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "secubee.de",
     "hostname": "https://www.secubee.de/",
     "email": "secubee.de@surrealnetworks.io",
     "organization": "secubee.de",
     "logoText": "Secubee.de",
     "title": "Sicherheit & Haustechnik",
-    "subline": "Der Online Shop für Sicherheit & Haustechnik",
+    "subline": "Der Online Shop für ein sicheres Zuhause",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Sicherheit & Haustechnik",
-        "featureText": "Sicherheit & Haustechnik ist ein Fachgeschäft für Sicherheitstechnik und Haustechnik. Wir bieten eine große Auswahl an Sicherheits- und Haustechnikprodukten. Unsere Produkte sind für Privat- und Gewerbezwecke geeignet. Wir beraten Sie gerne bei der Auswahl der richtigen Produkte für Ihre Bedürfnisse.",
+        "featureText": "Willkommen in unserem Online-Shop! Wir bieten Ihnen alles, um Ihr Zuhause in den Bereichen Sicherheit und Technik zu optimieren. Bei uns finden Sie Sicherheitsprodukte wie Alarmanlagen, Rauchmelder, Türschutzgitter, Kameraüberwachung, Fenstersicherungen und Tresore. Auch für die Technik in Ihrem Haus sind wir bestens gerüstet: Sat-Anlagen, Wand- und Heizkörperthermostate, Türklingeln, Hausfunksteuerung oder Kabel für Ihren Multimedia-Bereich.",
         "index": {
-            "title": "Sicherheit & Haustechnik - alles für Ihr Zuhause",
-            "metaDescription": "Sicherheit & Haustechnik - alles für Ihr Zuhause. Rund um die Uhr sicher und komfortabel.",
+            "title": "Sicherheit & Haustechnik | Secubee.de",
+            "metaDescription": "Rund um die Uhr sicher und komfortabel. Renommierte Hersteller | Langlebige Produkte | Schnelle Lieferung | Hier klicken und unsere Produkte online shoppen!",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Sicherheit & Haustechnik shop",
-            "metaDescription": "Im Shop findest du alles rund um Sicherheit und Haustechnik. Vom Alarmsystem bis zur Überwachungskamera ist alles dabei.",
+            "title": "Secubee | Ihr Shop für Sicherheit & Haustechnik",
+            "metaDescription": "Alles für ein sicheres und komfortables Zuhause finden Sie in unserem Shop. Hier klicken und Produkte von A-Z entdecken. Einfach | Sicher | Smart",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Sicherheit & Haustechnik - manufacturer",
-            "metaDescription": "Sicherheit & Haustechnik - Wir sind ein führender Hersteller von Sicherheits- und Haustechnikprodukten. Unsere Produkte sind für Ihre Sicherheit und Komfort konzipiert.",
+            "title": "Top Hersteller für Sicherheit & Haustechnik ",
+            "metaDescription": "Top Marken mit den besten Produkten für Ihre Sicherheit und Ihren Komfort -  Bosch • Einhell • Black+Decker • OBI • Makita • Brother uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Sicherheit & Haustechnik: $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl für Ihre Sicherheit & Haustechnik. Jetzt online bestellen bei $KATEGORIE!",
+        "defaultTitle": "$PRODUKT: Für ein sicheres Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl für Ihre Sicherheit & Haustechnik. Auch weitere Produkte bei uns im Shop unter $KATEGORIE online bestellen!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Sicherheit & Haustechnik: $KATEGORIE",
-        "defaultMetaDescription": "Sicherheit & Haustechnik: Finden Sie alles rund um die Themen $KATEGORIE und Haustechnik. Von Tipps und Tricks bis hin zu Produktvorstellungen.",
+        "defaultTitle": "$KATEGORIE | Alles für Ihr Zuhause",
+        "defaultMetaDescription": "Entdecken Sie alles zum Thema $KATEGORIE in unserem Shop. | Vielfältiges Produktsangebot | Renommierte Markenanbieter | Hochwertige Qualität",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr kompetenter Partner für Sicherheit und Haustechnik. Wir beraten und unterstützen Sie bei der Planung und Umsetzung Ihrer Projekte.",
+        "defaultTitle": "$HERSTELLER | Produkte günstig kaufen auf secubee.de",
+        "defaultMetaDescription": "Wir liefern Ihnen eine riesige Auswahl an top Herstellern wie $HERSTELLER. Hier klicken und schnell für Sicherheit und Komfort in Ihrem Zuhause sorgen!",
         "defaultRobots": "index, follow",
         "brands": [
             {
