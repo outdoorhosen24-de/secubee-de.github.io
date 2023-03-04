@@ -16,7 +16,7 @@
     {
         "key": "türschutzgitter & verlängerungen",
         "name": "Türschutzgitter & Verlängerungen",
-        "slug": "turschutzgitter-verlangerungen",
+        "slug": "tuerschutzgitter-verlaengerungen",
         "productCategory": "Türschutzgitter & Verlängerungen",
         "subCategories": []
     },
@@ -58,14 +58,14 @@
     {
         "key": "kameraüberwachung & videoüberwachung",
         "name": "Kameraüberwachung & Videoüberwachung",
-        "slug": "kamerauberwachung-videouberwachung",
+        "slug": "kameraueberwachung-videoueberwachung",
         "productCategory": "Kameraüberwachung & Videoüberwachung",
         "subCategories": []
     },
     {
         "key": "türsicherung & fenstersicherung",
         "name": "Türsicherung & Fenstersicherung",
-        "slug": "tursicherung-fenstersicherung",
+        "slug": "tuersicherung-fenstersicherung",
         "productCategory": "Türsicherung & Fenstersicherung",
         "subCategories": []
     },
@@ -107,7 +107,7 @@
     {
         "key": "bürobedarf",
         "name": "Bürobedarf",
-        "slug": "burobedarf",
+        "slug": "buerobedarf",
         "productCategory": "Bürobedarf",
         "subCategories": []
     },
@@ -135,21 +135,21 @@
     {
         "key": "türschlösser & türtechnik",
         "name": "Türschlösser & Türtechnik",
-        "slug": "turschlosser-turtechnik",
+        "slug": "tuerschloesser-tuertechnik",
         "productCategory": "Türschlösser & Türtechnik",
         "subCategories": []
     },
     {
         "key": "sicherungen & verschlüsse",
         "name": "Sicherungen & Verschlüsse",
-        "slug": "sicherungen-verschlusse",
+        "slug": "sicherungen-verschluesse",
         "productCategory": "Sicherungen & Verschlüsse",
         "subCategories": []
     },
     {
         "key": "türklingeln",
         "name": "Türklingeln",
-        "slug": "turklingeln",
+        "slug": "tuerklingeln",
         "productCategory": "Türklingeln",
         "subCategories": []
     },
@@ -163,7 +163,7 @@
     {
         "key": "vorhängeschlösser",
         "name": "Vorhängeschlösser",
-        "slug": "vorhangeschlosser",
+        "slug": "vorhaengeschloesser",
         "productCategory": "Vorhängeschlösser",
         "subCategories": []
     },
@@ -184,14 +184,14 @@
     {
         "key": "handy-zubehör",
         "name": "Handy-Zubehör",
-        "slug": "handy-zubehor",
+        "slug": "handy-zubehoer",
         "productCategory": "Handy-Zubehör",
         "subCategories": []
     },
     {
         "key": "kabel für computer & multimedia",
         "name": "Kabel für Computer & Multimedia",
-        "slug": "kabel-fur-computer-multimedia",
+        "slug": "kabel-fuer-computer-multimedia",
         "productCategory": "Kabel für Computer & Multimedia",
         "subCategories": []
     }
