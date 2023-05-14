@@ -1,312 +1,319 @@
 {
-  "configIsReady": true,
-  "domain": "secubee.de",
-  "hostname": "https://www.secubee.de/",
-  "email": "secubee.de@surrealnetworks.io",
-  "organization": "secubee.de",
-  "logoText": "Secubee.de",
-  "title": "Sicherheit & Haustechnik",
-  "subline": "Der Online Shop für ein sicheres Zuhause",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "4911343",
-    "4911269",
-    "4911285",
-    "5080742",
-    "3513314",
-    "4158705"
-  ],
-  "winnerProducts": [
-    "4322541",
-    "2598795",
-    "4938346"
-  ],
-  "featuredCategories": [
-    "Computer & Multimedia",
-    "Sicherheitstechnik",
-    "Akkus",
-    "Computer & Multimedia",
-    "Brandschutz",
-    "Thermometer"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Sicherheit & Haustechnik",
-    "featureText": "Willkommen in unserem Online-Shop! Wir bieten Ihnen alles, um Ihr Zuhause in den Bereichen Sicherheit und Technik zu optimieren. Bei uns finden Sie Sicherheitsprodukte wie Alarmanlagen, Rauchmelder, Türschutzgitter, Kameraüberwachung, Fenstersicherungen und Tresore. Auch für die Technik in Ihrem Haus sind wir bestens gerüstet: Sat-Anlagen, Wand- und Heizkörperthermostate, Türklingeln, Hausfunksteuerung oder Kabel für Ihren Multimedia-Bereich.",
-    "index": {
-      "title": "Sicherheit & Haustechnik | Secubee.de",
-      "metaDescription": "Rund um die Uhr sicher und komfortabel. Renommierte Hersteller | Langlebige Produkte | Schnelle Lieferung | Hier klicken und unsere Produkte online shoppen!",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Secubee - Ihrem Experten für Sicherheit & Haustechnik",
-            "text": "Bei Secubee finden Sie alles, was Sie für Ihre Sicherheit und Haustechnik benötigen. Unsere Produktpalette reicht von Sicherheitstechnik über Kinder- und Türschutz bis hin zu Hausautomation und Alarmanlagen. Als Experten auf dem Gebiet der Sicherheit und Haustechnik bieten wir Ihnen eine breite Auswahl an hochwertigen Produkten, um Ihr Zuhause und Ihre Familie zu schützen. Darüber hinaus haben wir auch Brandschutzlösungen, Wetterstationen und Kameraüberwachung im Angebot. Mit unserem fundierten Wissen und unserer Erfahrung sind wir Ihr zuverlässiger Partner für alle Fragen rund um die Sicherheit und Haustechnik."
-          },
-          {
-            "title": "Sicherheitstechnik",
-            "text": "Bei Secubee finden Sie eine große Auswahl an <a href=\"/kategorie/sicherheitstechnik/\" title=\"Sicherheitstechnik\">Sicherheitstechnik</a>, um Ihr Zuhause bestmöglich zu schützen. Von Alarmanlagen bis hin zu Türsicherungen und Fenstersicherungen, bieten wir Ihnen eine breite Palette an sicheren und zuverlässigen Lösungen. Unsere Produkte sind einfach zu installieren und bieten Ihnen die notwendige Sicherheit für ein gutes Gefühl zu Hause."
-          },
-          {
-            "title": "Kindersicherheit",
-            "text": "Bei Secubee legen wir besonderen Wert auf Kinder- und Familiensicherheit. Unsere <a href=\"/kategorie/kindersicherheit/\" title=\"Kindersicherheit\">Kindersicherheit</a>-Produkte, wie Türschutzgitter und Verlängerungen, sind sicher, robust und einfach zu montieren. Sie können sich sicher sein, dass Ihre Kinder in Sicherheit sind, während Sie sich entspannen und Ihre Freizeit genießen können."
-          },
-          {
-            "title": "Türschutzgitter & Verlängerungen",
-            "text": "Secubee bietet Ihnen eine breite Auswahl an Türschutzgittern und Verlängerungen, die Ihnen und Ihrer Familie Sicherheit und Schutz bieten. Unsere Türschutzgitter sind robust und langlebig und eignen sich perfekt für den Einsatz in jedem Raum Ihres Zuhauses. Egal, ob Sie ein Türschutzgitter für den Eingang oder für den Zugang zu bestimmten Bereichen benötigen, bei Secubee finden Sie das perfekte Produkt für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Hausfunksteuerung",
-            "text": "Mit einer <a href=\"/kategorie/hausfunksteuerung/\" title=\"Hausfunksteuerung\">Hausfunksteuerung</a> von Secubee können Sie Ihr Zuhause noch sicherer und komfortabler gestalten. Unsere Produkte bieten Ihnen die Möglichkeit, Ihre Hausfunktionen wie Licht, Heizung, Rollläden und mehr mit einer einzigen Fernbedienung oder via Smartphone-App zu steuern. Dank unserer hochwertigen und zuverlässigen Hausfunksteuerungen können Sie Ihr Zuhause ganz einfach und bequem auf Ihre Bedürfnisse anpassen."
-          },
-          {
-            "title": "Hausautomation",
-            "text": "Mit der <a href=\"/kategorie/hausautomation/\" title=\"Hausautomation\">Hausautomation</a> von Secubee können Sie Ihr Zuhause noch smarte gestalten. Unsere Produkte ermöglichen es Ihnen, alle Funktionen Ihres Hauses wie Licht, Heizung, Alarmanlage und mehr ganz einfach und bequem per App oder Sprachsteuerung zu steuern. So können Sie jederzeit und von überall aus Ihr Zuhause überwachen und kontrollieren."
-          },
-          {
-            "title": "Alarmanlagen",
-            "text": "Mit einer Alarmanlage von Secubee können Sie Ihr Zuhause optimal schützen. Unsere <a href=\"/kategorie/alarmanlagen/\" title=\"Alarmanlagen\">Alarmanlagen</a> sind einfach zu installieren und bieten Ihnen eine hohe Sicherheit. Ob Einbruch, Brand oder Gaslecks, unsere Alarmanlagen informieren Sie sofort über jeden Vorfall. Auch für den Notfall sind wir bestens gerüstet, denn unsere Alarmanlagen sind mit einer Notruf-Funktion ausgestattet."
-          },
-          {
-            "title": "Brandschutz bei Secubee",
-            "text": "Schützen Sie Ihr Zuhause und Ihre Familie vor den Gefahren eines Brandes mit den hochwertigen Brandschutzprodukten von Secubee. Wir bieten eine breite Auswahl an Lösungen, die auf Ihre Bedürfnisse abgestimmt sind. Ob Feuerlöscher, Rauchmelder oder Feuerlöschdecke, bei uns finden Sie alles, was Sie für einen effektiven Brandschutz benötigen. Überzeugen Sie sich selbst von unseren qualitativ hochwertigen Produkten und bestellen Sie jetzt bequem online."
-          },
-          {
-            "title": "Wetterstationen bei Secubee",
-            "text": "Mit den hochmodernen Wetterstationen von Secubee haben Sie das Wetter immer im Blick. Unsere Wetterstationen bieten Ihnen eine Vielzahl an Funktionen, wie die Messung von Temperatur, Luftfeuchtigkeit, Luftdruck und vielem mehr. Ob für den Einsatz zu Hause oder im Büro, bei uns finden Sie die perfekte Wetterstation für Ihre Bedürfnisse. Entdecken Sie jetzt unsere große Auswahl und bestellen Sie bequem online."
-          },
-          {
-            "title": "Kameraüberwachung & Videoüberwachung bei Secubee",
-            "text": "Sichern Sie Ihr Zuhause oder Ihr Büro mit den hochmodernen Kamera- und Videoüberwachungssystemen von Secubee. Wir bieten Ihnen eine breite Auswahl an Lösungen, die auf Ihre Bedürfnisse abgestimmt sind. Ob Innen- oder Außenkameras, bei uns finden Sie alles, was Sie für eine effektive Überwachung benötigen. Überzeugen Sie sich selbst von unseren qualitativ hochwertigen Produkten und bestellen Sie jetzt bequem online."
-          },
-          {
-            "title": "Türsicherung & Fenstersicherung",
-            "text": "Schützen Sie Ihr Zuhause mit Türsicherungen und Fenstersicherungen von Secubee. Wir bieten eine breite Auswahl an hochwertigen und zuverlässigen Produkten, die Ihnen helfen, Ihr Zuhause sicher und geschützt zu halten. Unsere Türsicherungen und Fenstersicherungen sind einfach zu installieren und bieten eine erhöhte Sicherheit für Ihr Zuhause. Stöbern Sie durch unser Angebot und finden Sie die perfekte Türsicherung oder Fenstersicherung für Ihr Zuhause."
-          },
-          {
-            "title": "Tresore",
-            "text": "Schützen Sie Ihre wichtigen Dokumente und Wertgegenstände mit <a href=\"/kategorie/tresore/\" title=\"Tresore\">Tresore</a>n von Secubee. Unsere Tresore sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine zuverlässige Aufbewahrungslösung. Wir haben eine breite Auswahl an Größen und Stilen, um Ihren Bedürfnissen und Anforderungen gerecht zu werden. Stöbern Sie durch unser Angebot und finden Sie den perfekten Tresor für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Profilzylinder",
-            "text": "Verbessern Sie die Sicherheit Ihrer Türen mit <a href=\"/kategorie/profilzylinder/\" title=\"Profilzylinder\">Profilzylinder</a>n von Secubee. Unsere Profilzylinder sind aus hochwertigen Materialien gefertigt und bieten eine zuverlässige und sichere Verriegelungslösung. Wir haben eine breite Auswahl an Größen und Stilen, um Ihren Bedürfnissen und Anforderungen gerecht zu werden. Stöbern Sie durch unser Angebot und finden Sie den perfekten Profilzylinder für Ihre Tür."
-          },
-          {
-            "title": "Batterien & Akkus",
-            "text": "Entdecken Sie eine große Auswahl an Batterien und Akkus bei Secubee. Von Alkaline-Batterien bis hin zu Lithium-Ionen-Akkus haben wir alles, was Sie benötigen. Wir führen nur hochwertige Markenprodukte, damit Sie sicher sein können, dass Ihre Geräte lange Zeit optimal funktionieren. Überzeugen Sie sich selbst von unserer breiten Produktpalette und finden Sie die passenden Batterien und Akkus für Ihre Geräte."
-          },
-          {
-            "title": "Akkus",
-            "text": "Secubee bietet Ihnen eine große Auswahl an <a href=\"/kategorie/akkus/\" title=\"Akkus\">Akkus</a> für alle möglichen Geräte. Egal, ob Sie einen Akku für Ihre Kamera, Ihr Handy oder Ihr Notebook benötigen, bei uns finden Sie garantiert das passende Modell. Wir führen nur hochwertige Markenprodukte, damit Sie sicher sein können, dass Ihre Geräte lange Zeit optimal funktionieren. Überzeugen Sie sich selbst von unserer breiten Produktpalette und finden Sie den passenden Akku für Ihr Gerät."
-          },
-          {
-            "title": "Computer & Multimedia",
-            "text": "Secubee ist Ihr zuverlässiger Ansprechpartner, wenn es um Computer- und Multimediaprodukte geht. Von Zubehör wie Tastaturen und Mäusen bis hin zu kompletten Computersystemen haben wir alles, was Sie benötigen. Unsere Produkte sind von höchster Qualität und von namhaften Herstellern, damit Sie sicher sein können, dass Sie lange Freude an Ihren Geräten haben werden. Überzeugen Sie sich selbst von unserem umfangreichen Angebot und finden Sie die passenden Computer- und Multimediaprodukte für Ihre Bedürfnisse."
-          },
-          {
-            "title": "Bürobedarf",
-            "text": "Im Online-Shop Secubee finden Sie alles, was Sie für ein effizientes und professionelles Büro benötigen. Unsere Kategorie <a href=\"/kategorie/buerobedarf/\" title=\"Bürobedarf\">Bürobedarf</a> bietet Ihnen eine umfassende Auswahl an Schreibwaren, Papieren, Ordnern und vielem mehr. Alle Produkte zeichnen sich durch hohe Qualität und Zuverlässigkeit aus und sorgen dafür, dass Sie im Büro immer bestens organisiert sind."
-          },
-          {
-            "title": "Riegel & Sperren",
-            "text": "Sicherheit hat bei Secubee oberste Priorität. In der Kategorie <a href=\"/kategorie/riegel-sperren/\" title=\"Riegel & Sperren\">Riegel & Sperren</a> finden Sie eine große Auswahl an robusten und langlebigen Türriegeln und Sperren für Ihre Türen. Ob für Ihr Zuhause oder Ihr Büro, wir bieten Ihnen eine Vielzahl an Optionen, um Ihre Räume optimal zu schützen. Überzeugen Sie sich selbst von unseren hochwertigen Produkten."
-          },
-          {
-            "title": "Audio & Video",
-            "text": "Erleben Sie Musik, Filme und TV-Sendungen in bester Qualität mit dem breiten Angebot an Audio- und Video-Geräten im Online-Shop Secubee. Unsere Kategorie <a href=\"/kategorie/audio-video/\" title=\"Audio & Video\">Audio & Video</a> bietet Ihnen eine große Auswahl an Lautsprechern, Soundbars, Fernsehern und vielem mehr. Alle Produkte zeichnen sich durch eine hervorragende Ton- und Bildqualität aus und sorgen für unvergessliche Unterhaltungserlebnisse."
-          },
-          {
-            "title": "SAT Anlagen - Alles für den perfekten Empfang",
-            "text": "Bei Secubee finden Sie eine große Auswahl an SAT Anlagen, um stets den besten Empfang Ihrer Lieblingsprogramme zu garantieren. Wählen Sie aus verschiedenen Modellen und Marken, um Ihre Wohnung oder Ihr Haus mit einer SAT Anlage auszustatten. Alle Produkte sind von höchster Qualität und bieten eine zuverlässige Übertragung für ein perfektes Fernseherlebnis."
-          },
-          {
-            "title": "Türschlösser & Türtechnik - Sicherheit für Ihr Zuhause",
-            "text": "Sicherheit geht vor! Mit den Türschlössern und der Türtechnik von Secubee sorgen Sie für ein sicheres Zuhause. Wählen Sie aus einer Vielzahl an Modellen und Marken und verbessern Sie die Sicherheit Ihrer Türen. Ob Türriegel oder Türschlösser, bei Secubee finden Sie alles, was Sie für ein sicheres Zuhause benötigen."
-          },
-          {
-            "title": "Sicherungen & Verschlüsse - Schutz vor Einbrechern",
-            "text": "Schützen Sie Ihr Zuhause vor Einbrechern mit den Sicherungen und Verschlüssen von Secubee. Wählen Sie aus einer Vielzahl an Modellen und Marken und verbessern Sie die Sicherheit Ihrer Türen und Fenster. Ob Zusatzschlösser oder Fenstersicherungen, bei Secubee finden Sie alles, was Sie für ein sicheres Zuhause benötigen."
-          },
-          {
-            "title": "Türklingeln",
-            "text": "Im Sortiment von Secubee finden Sie eine große Auswahl an <a href=\"/kategorie/tuerklingeln/\" title=\"Türklingeln\">Türklingeln</a> für Ihr Zuhause. Von klassisch bis modern, wir haben für jeden Geschmack die passende Türklingel. Überzeugen Sie sich von der hohen Qualität unserer Produkte und bestellen Sie noch heute Ihre neue Türklingel. Einfache Montage und lange Lebensdauer garantiert."
-          },
-          {
-            "title": "Batterien",
-            "text": "Eine funktionierende Stromversorgung ist das A und O für den reibungslosen Ablauf in Ihrem Zuhause. Daher bietet Secubee eine breite Palette an <a href=\"/kategorie/batterien/\" title=\"Batterien\">Batterien</a> für alle Anwendungsbereiche an. Ob für Ihren Fernseher, Ihre Türklingel oder Ihre Alarmanlage, wir haben die passende Batterie für Sie. Überzeugen Sie sich selbst von unserem Sortiment und bestellen Sie noch heute."
-          },
-          {
-            "title": "Vorhängeschlösser",
-            "text": "Sicherheit ist das oberste Gebot in Ihrem Zuhause. Mit unseren <a href=\"/kategorie/vorhaengeschloesser/\" title=\"Vorhängeschlösser\">Vorhängeschlösser</a>n von Secubee können Sie sich und Ihre Wertgegenstände optimal schützen. Ob für Türen, Fenster oder Schränke, wir bieten eine große Auswahl an Vorhängeschlössern in verschiedenen Größen und Ausführungen. Überzeugen Sie sich von der Qualität unserer Produkte und bestellen Sie noch heute Ihr neues Vorhängeschloss."
-          },
-          {
-            "title": "Thermometer",
-            "text": "Entdecken Sie unser großes Angebot an <a href=\"/kategorie/thermometer/\" title=\"Thermometer\">Thermometer</a>n bei Secubee. Ob für den privaten oder gewerblichen Einsatz, wir bieten eine breite Auswahl an digitalen und analog Thermometern. Unsere Thermometer sind einfach zu bedienen und liefern genaue Messwerte. Vergleichen Sie jetzt die verschiedenen Modelle und finden Sie das Thermometer, das am besten zu Ihnen passt."
-          },
-          {
-            "title": "Telefone",
-            "text": "Bei Secubee finden Sie eine große Auswahl an <a href=\"/kategorie/telefone/\" title=\"Telefone\">Telefone</a>n für jeden Bedarf. Von einfachen Telefonen für den privaten Einsatz bis hin zu professionellen Systemen für den gewerblichen Einsatz. Wir bieten Ihnen moderne und leistungsstarke Telefone mit einer einfachen Bedienung. Vergleichen Sie jetzt unser Angebot und finden Sie das Telefon, das am besten zu Ihnen passt."
-          },
-          {
-            "title": "Handy-Zubehör",
-            "text": "Entdecken Sie bei Secubee unser breites Angebot an <a href=\"/kategorie/handy-zubehoer/\" title=\"Handy-Zubehör\">Handy-Zubehör</a>. Von Hüllen und Schutzbriefen über Ladegeräte und Kopfhörer bis hin zu Speicherkarten und weiterem Zubehör. Wir bieten Ihnen eine große Auswahl an hochwertigem Zubehör für Ihr Handy. Vergleichen Sie jetzt unser Angebot und finden Sie das Zubehör, das am besten zu Ihnen passt."
-          },
-          {
-            "title": "Kabel für Computer & Multimedia",
-            "text": "Entdecken Sie eine große Auswahl an Kabeln für Computer und Multimedia bei Secubee. Von hochwertigen Netzwerkkabeln bis hin zu Kabeln für Audio- und Videoübertragungen finden Sie bei uns alles, was Sie für den Betrieb Ihrer Geräte benötigen. Alle Kabel sind von erstklassiger Qualität und sorgen für eine zuverlässige Übertragung Ihrer Daten und Signale. Stöbern Sie jetzt in unserem Sortiment und finden Sie das perfekte Kabel für Ihre Anforderungen."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "secubee.de",
+    "hostname": "https://www.secubee.de/",
+    "email": "secubee.de@surrealnetworks.io",
+    "organization": "secubee.de",
+    "logoText": "Secubee.de",
+    "title": "Sicherheit & Haustechnik",
+    "subline": "Der Online Shop für ein sicheres Zuhause",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "4911343",
+        "4911269",
+        "4911285",
+        "5080742",
+        "3513314",
+        "4158705"
+    ],
+    "winnerProducts": [
+        "4322541",
+        "2598795",
+        "4938346"
+    ],
+    "featuredCategories": [
+        "Computer & Multimedia",
+        "Sicherheitstechnik",
+        "Akkus",
+        "Computer & Multimedia",
+        "Brandschutz",
+        "Thermometer"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Sicherheit & Haustechnik",
+        "featureText": "Willkommen in unserem Online-Shop! Wir bieten Ihnen alles, um Ihr Zuhause in den Bereichen Sicherheit und Technik zu optimieren. Bei uns finden Sie Sicherheitsprodukte wie Alarmanlagen, Rauchmelder, Türschutzgitter, Kameraüberwachung, Fenstersicherungen und Tresore. Auch für die Technik in Ihrem Haus sind wir bestens gerüstet: Sat-Anlagen, Wand- und Heizkörperthermostate, Türklingeln, Hausfunksteuerung oder Kabel für Ihren Multimedia-Bereich.",
+        "index": {
+            "title": "Sicherheit & Haustechnik | Secubee.de",
+            "metaDescription": "Rund um die Uhr sicher und komfortabel. Renommierte Hersteller | Langlebige Produkte | Schnelle Lieferung | Hier klicken und unsere Produkte online shoppen!",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Secubee - Ihrem Experten für Sicherheit & Haustechnik",
+                        "text": "Bei Secubee finden Sie alles, was Sie für Ihre Sicherheit und Haustechnik benötigen. Unsere Produktpalette reicht von Sicherheitstechnik über Kinder- und Türschutz bis hin zu Hausautomation und Alarmanlagen. Als Experten auf dem Gebiet der Sicherheit und Haustechnik bieten wir Ihnen eine breite Auswahl an hochwertigen Produkten, um Ihr Zuhause und Ihre Familie zu schützen. Darüber hinaus haben wir auch Brandschutzlösungen, Wetterstationen und Kameraüberwachung im Angebot. Mit unserem fundierten Wissen und unserer Erfahrung sind wir Ihr zuverlässiger Partner für alle Fragen rund um die Sicherheit und Haustechnik."
+                    },
+                    {
+                        "title": "Sicherheitstechnik",
+                        "text": "Bei Secubee finden Sie eine große Auswahl an <a href=\"/kategorie/sicherheitstechnik/\" title=\"Sicherheitstechnik\">Sicherheitstechnik</a>, um Ihr Zuhause bestmöglich zu schützen. Von Alarmanlagen bis hin zu Türsicherungen und Fenstersicherungen, bieten wir Ihnen eine breite Palette an sicheren und zuverlässigen Lösungen. Unsere Produkte sind einfach zu installieren und bieten Ihnen die notwendige Sicherheit für ein gutes Gefühl zu Hause."
+                    },
+                    {
+                        "title": "Kindersicherheit",
+                        "text": "Bei Secubee legen wir besonderen Wert auf Kinder- und Familiensicherheit. Unsere <a href=\"/kategorie/kindersicherheit/\" title=\"Kindersicherheit\">Kindersicherheit</a>-Produkte, wie Türschutzgitter und Verlängerungen, sind sicher, robust und einfach zu montieren. Sie können sich sicher sein, dass Ihre Kinder in Sicherheit sind, während Sie sich entspannen und Ihre Freizeit genießen können."
+                    },
+                    {
+                        "title": "Türschutzgitter & Verlängerungen",
+                        "text": "Secubee bietet Ihnen eine breite Auswahl an Türschutzgittern und Verlängerungen, die Ihnen und Ihrer Familie Sicherheit und Schutz bieten. Unsere Türschutzgitter sind robust und langlebig und eignen sich perfekt für den Einsatz in jedem Raum Ihres Zuhauses. Egal, ob Sie ein Türschutzgitter für den Eingang oder für den Zugang zu bestimmten Bereichen benötigen, bei Secubee finden Sie das perfekte Produkt für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Hausfunksteuerung",
+                        "text": "Mit einer <a href=\"/kategorie/hausfunksteuerung/\" title=\"Hausfunksteuerung\">Hausfunksteuerung</a> von Secubee können Sie Ihr Zuhause noch sicherer und komfortabler gestalten. Unsere Produkte bieten Ihnen die Möglichkeit, Ihre Hausfunktionen wie Licht, Heizung, Rollläden und mehr mit einer einzigen Fernbedienung oder via Smartphone-App zu steuern. Dank unserer hochwertigen und zuverlässigen Hausfunksteuerungen können Sie Ihr Zuhause ganz einfach und bequem auf Ihre Bedürfnisse anpassen."
+                    },
+                    {
+                        "title": "Hausautomation",
+                        "text": "Mit der <a href=\"/kategorie/hausautomation/\" title=\"Hausautomation\">Hausautomation</a> von Secubee können Sie Ihr Zuhause noch smarte gestalten. Unsere Produkte ermöglichen es Ihnen, alle Funktionen Ihres Hauses wie Licht, Heizung, Alarmanlage und mehr ganz einfach und bequem per App oder Sprachsteuerung zu steuern. So können Sie jederzeit und von überall aus Ihr Zuhause überwachen und kontrollieren."
+                    },
+                    {
+                        "title": "Alarmanlagen",
+                        "text": "Mit einer Alarmanlage von Secubee können Sie Ihr Zuhause optimal schützen. Unsere <a href=\"/kategorie/alarmanlagen/\" title=\"Alarmanlagen\">Alarmanlagen</a> sind einfach zu installieren und bieten Ihnen eine hohe Sicherheit. Ob Einbruch, Brand oder Gaslecks, unsere Alarmanlagen informieren Sie sofort über jeden Vorfall. Auch für den Notfall sind wir bestens gerüstet, denn unsere Alarmanlagen sind mit einer Notruf-Funktion ausgestattet."
+                    },
+                    {
+                        "title": "Brandschutz bei Secubee",
+                        "text": "Schützen Sie Ihr Zuhause und Ihre Familie vor den Gefahren eines Brandes mit den hochwertigen Brandschutzprodukten von Secubee. Wir bieten eine breite Auswahl an Lösungen, die auf Ihre Bedürfnisse abgestimmt sind. Ob Feuerlöscher, Rauchmelder oder Feuerlöschdecke, bei uns finden Sie alles, was Sie für einen effektiven Brandschutz benötigen. Überzeugen Sie sich selbst von unseren qualitativ hochwertigen Produkten und bestellen Sie jetzt bequem online."
+                    },
+                    {
+                        "title": "Wetterstationen bei Secubee",
+                        "text": "Mit den hochmodernen Wetterstationen von Secubee haben Sie das Wetter immer im Blick. Unsere Wetterstationen bieten Ihnen eine Vielzahl an Funktionen, wie die Messung von Temperatur, Luftfeuchtigkeit, Luftdruck und vielem mehr. Ob für den Einsatz zu Hause oder im Büro, bei uns finden Sie die perfekte Wetterstation für Ihre Bedürfnisse. Entdecken Sie jetzt unsere große Auswahl und bestellen Sie bequem online."
+                    },
+                    {
+                        "title": "Kameraüberwachung & Videoüberwachung bei Secubee",
+                        "text": "Sichern Sie Ihr Zuhause oder Ihr Büro mit den hochmodernen Kamera- und Videoüberwachungssystemen von Secubee. Wir bieten Ihnen eine breite Auswahl an Lösungen, die auf Ihre Bedürfnisse abgestimmt sind. Ob Innen- oder Außenkameras, bei uns finden Sie alles, was Sie für eine effektive Überwachung benötigen. Überzeugen Sie sich selbst von unseren qualitativ hochwertigen Produkten und bestellen Sie jetzt bequem online."
+                    },
+                    {
+                        "title": "Türsicherung & Fenstersicherung",
+                        "text": "Schützen Sie Ihr Zuhause mit Türsicherungen und Fenstersicherungen von Secubee. Wir bieten eine breite Auswahl an hochwertigen und zuverlässigen Produkten, die Ihnen helfen, Ihr Zuhause sicher und geschützt zu halten. Unsere Türsicherungen und Fenstersicherungen sind einfach zu installieren und bieten eine erhöhte Sicherheit für Ihr Zuhause. Stöbern Sie durch unser Angebot und finden Sie die perfekte Türsicherung oder Fenstersicherung für Ihr Zuhause."
+                    },
+                    {
+                        "title": "Tresore",
+                        "text": "Schützen Sie Ihre wichtigen Dokumente und Wertgegenstände mit <a href=\"/kategorie/tresore/\" title=\"Tresore\">Tresore</a>n von Secubee. Unsere Tresore sind aus hochwertigen Materialien gefertigt und bieten Ihnen eine zuverlässige Aufbewahrungslösung. Wir haben eine breite Auswahl an Größen und Stilen, um Ihren Bedürfnissen und Anforderungen gerecht zu werden. Stöbern Sie durch unser Angebot und finden Sie den perfekten Tresor für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Profilzylinder",
+                        "text": "Verbessern Sie die Sicherheit Ihrer Türen mit <a href=\"/kategorie/profilzylinder/\" title=\"Profilzylinder\">Profilzylinder</a>n von Secubee. Unsere Profilzylinder sind aus hochwertigen Materialien gefertigt und bieten eine zuverlässige und sichere Verriegelungslösung. Wir haben eine breite Auswahl an Größen und Stilen, um Ihren Bedürfnissen und Anforderungen gerecht zu werden. Stöbern Sie durch unser Angebot und finden Sie den perfekten Profilzylinder für Ihre Tür."
+                    },
+                    {
+                        "title": "Batterien & Akkus",
+                        "text": "Entdecken Sie eine große Auswahl an Batterien und Akkus bei Secubee. Von Alkaline-Batterien bis hin zu Lithium-Ionen-Akkus haben wir alles, was Sie benötigen. Wir führen nur hochwertige Markenprodukte, damit Sie sicher sein können, dass Ihre Geräte lange Zeit optimal funktionieren. Überzeugen Sie sich selbst von unserer breiten Produktpalette und finden Sie die passenden Batterien und Akkus für Ihre Geräte."
+                    },
+                    {
+                        "title": "Akkus",
+                        "text": "Secubee bietet Ihnen eine große Auswahl an <a href=\"/kategorie/akkus/\" title=\"Akkus\">Akkus</a> für alle möglichen Geräte. Egal, ob Sie einen Akku für Ihre Kamera, Ihr Handy oder Ihr Notebook benötigen, bei uns finden Sie garantiert das passende Modell. Wir führen nur hochwertige Markenprodukte, damit Sie sicher sein können, dass Ihre Geräte lange Zeit optimal funktionieren. Überzeugen Sie sich selbst von unserer breiten Produktpalette und finden Sie den passenden Akku für Ihr Gerät."
+                    },
+                    {
+                        "title": "Computer & Multimedia",
+                        "text": "Secubee ist Ihr zuverlässiger Ansprechpartner, wenn es um Computer- und Multimediaprodukte geht. Von Zubehör wie Tastaturen und Mäusen bis hin zu kompletten Computersystemen haben wir alles, was Sie benötigen. Unsere Produkte sind von höchster Qualität und von namhaften Herstellern, damit Sie sicher sein können, dass Sie lange Freude an Ihren Geräten haben werden. Überzeugen Sie sich selbst von unserem umfangreichen Angebot und finden Sie die passenden Computer- und Multimediaprodukte für Ihre Bedürfnisse."
+                    },
+                    {
+                        "title": "Bürobedarf",
+                        "text": "Im Online-Shop Secubee finden Sie alles, was Sie für ein effizientes und professionelles Büro benötigen. Unsere Kategorie <a href=\"/kategorie/buerobedarf/\" title=\"Bürobedarf\">Bürobedarf</a> bietet Ihnen eine umfassende Auswahl an Schreibwaren, Papieren, Ordnern und vielem mehr. Alle Produkte zeichnen sich durch hohe Qualität und Zuverlässigkeit aus und sorgen dafür, dass Sie im Büro immer bestens organisiert sind."
+                    },
+                    {
+                        "title": "Riegel & Sperren",
+                        "text": "Sicherheit hat bei Secubee oberste Priorität. In der Kategorie <a href=\"/kategorie/riegel-sperren/\" title=\"Riegel & Sperren\">Riegel & Sperren</a> finden Sie eine große Auswahl an robusten und langlebigen Türriegeln und Sperren für Ihre Türen. Ob für Ihr Zuhause oder Ihr Büro, wir bieten Ihnen eine Vielzahl an Optionen, um Ihre Räume optimal zu schützen. Überzeugen Sie sich selbst von unseren hochwertigen Produkten."
+                    },
+                    {
+                        "title": "Audio & Video",
+                        "text": "Erleben Sie Musik, Filme und TV-Sendungen in bester Qualität mit dem breiten Angebot an Audio- und Video-Geräten im Online-Shop Secubee. Unsere Kategorie <a href=\"/kategorie/audio-video/\" title=\"Audio & Video\">Audio & Video</a> bietet Ihnen eine große Auswahl an Lautsprechern, Soundbars, Fernsehern und vielem mehr. Alle Produkte zeichnen sich durch eine hervorragende Ton- und Bildqualität aus und sorgen für unvergessliche Unterhaltungserlebnisse."
+                    },
+                    {
+                        "title": "SAT Anlagen - Alles für den perfekten Empfang",
+                        "text": "Bei Secubee finden Sie eine große Auswahl an SAT Anlagen, um stets den besten Empfang Ihrer Lieblingsprogramme zu garantieren. Wählen Sie aus verschiedenen Modellen und Marken, um Ihre Wohnung oder Ihr Haus mit einer SAT Anlage auszustatten. Alle Produkte sind von höchster Qualität und bieten eine zuverlässige Übertragung für ein perfektes Fernseherlebnis."
+                    },
+                    {
+                        "title": "Türschlösser & Türtechnik - Sicherheit für Ihr Zuhause",
+                        "text": "Sicherheit geht vor! Mit den Türschlössern und der Türtechnik von Secubee sorgen Sie für ein sicheres Zuhause. Wählen Sie aus einer Vielzahl an Modellen und Marken und verbessern Sie die Sicherheit Ihrer Türen. Ob Türriegel oder Türschlösser, bei Secubee finden Sie alles, was Sie für ein sicheres Zuhause benötigen."
+                    },
+                    {
+                        "title": "Sicherungen & Verschlüsse - Schutz vor Einbrechern",
+                        "text": "Schützen Sie Ihr Zuhause vor Einbrechern mit den Sicherungen und Verschlüssen von Secubee. Wählen Sie aus einer Vielzahl an Modellen und Marken und verbessern Sie die Sicherheit Ihrer Türen und Fenster. Ob Zusatzschlösser oder Fenstersicherungen, bei Secubee finden Sie alles, was Sie für ein sicheres Zuhause benötigen."
+                    },
+                    {
+                        "title": "Türklingeln",
+                        "text": "Im Sortiment von Secubee finden Sie eine große Auswahl an <a href=\"/kategorie/tuerklingeln/\" title=\"Türklingeln\">Türklingeln</a> für Ihr Zuhause. Von klassisch bis modern, wir haben für jeden Geschmack die passende Türklingel. Überzeugen Sie sich von der hohen Qualität unserer Produkte und bestellen Sie noch heute Ihre neue Türklingel. Einfache Montage und lange Lebensdauer garantiert."
+                    },
+                    {
+                        "title": "Batterien",
+                        "text": "Eine funktionierende Stromversorgung ist das A und O für den reibungslosen Ablauf in Ihrem Zuhause. Daher bietet Secubee eine breite Palette an <a href=\"/kategorie/batterien/\" title=\"Batterien\">Batterien</a> für alle Anwendungsbereiche an. Ob für Ihren Fernseher, Ihre Türklingel oder Ihre Alarmanlage, wir haben die passende Batterie für Sie. Überzeugen Sie sich selbst von unserem Sortiment und bestellen Sie noch heute."
+                    },
+                    {
+                        "title": "Vorhängeschlösser",
+                        "text": "Sicherheit ist das oberste Gebot in Ihrem Zuhause. Mit unseren <a href=\"/kategorie/vorhaengeschloesser/\" title=\"Vorhängeschlösser\">Vorhängeschlösser</a>n von Secubee können Sie sich und Ihre Wertgegenstände optimal schützen. Ob für Türen, Fenster oder Schränke, wir bieten eine große Auswahl an Vorhängeschlössern in verschiedenen Größen und Ausführungen. Überzeugen Sie sich von der Qualität unserer Produkte und bestellen Sie noch heute Ihr neues Vorhängeschloss."
+                    },
+                    {
+                        "title": "Thermometer",
+                        "text": "Entdecken Sie unser großes Angebot an <a href=\"/kategorie/thermometer/\" title=\"Thermometer\">Thermometer</a>n bei Secubee. Ob für den privaten oder gewerblichen Einsatz, wir bieten eine breite Auswahl an digitalen und analog Thermometern. Unsere Thermometer sind einfach zu bedienen und liefern genaue Messwerte. Vergleichen Sie jetzt die verschiedenen Modelle und finden Sie das Thermometer, das am besten zu Ihnen passt."
+                    },
+                    {
+                        "title": "Telefone",
+                        "text": "Bei Secubee finden Sie eine große Auswahl an <a href=\"/kategorie/telefone/\" title=\"Telefone\">Telefone</a>n für jeden Bedarf. Von einfachen Telefonen für den privaten Einsatz bis hin zu professionellen Systemen für den gewerblichen Einsatz. Wir bieten Ihnen moderne und leistungsstarke Telefone mit einer einfachen Bedienung. Vergleichen Sie jetzt unser Angebot und finden Sie das Telefon, das am besten zu Ihnen passt."
+                    },
+                    {
+                        "title": "Handy-Zubehör",
+                        "text": "Entdecken Sie bei Secubee unser breites Angebot an <a href=\"/kategorie/handy-zubehoer/\" title=\"Handy-Zubehör\">Handy-Zubehör</a>. Von Hüllen und Schutzbriefen über Ladegeräte und Kopfhörer bis hin zu Speicherkarten und weiterem Zubehör. Wir bieten Ihnen eine große Auswahl an hochwertigem Zubehör für Ihr Handy. Vergleichen Sie jetzt unser Angebot und finden Sie das Zubehör, das am besten zu Ihnen passt."
+                    },
+                    {
+                        "title": "Kabel für Computer & Multimedia",
+                        "text": "Entdecken Sie eine große Auswahl an Kabeln für Computer und Multimedia bei Secubee. Von hochwertigen Netzwerkkabeln bis hin zu Kabeln für Audio- und Videoübertragungen finden Sie bei uns alles, was Sie für den Betrieb Ihrer Geräte benötigen. Alle Kabel sind von erstklassiger Qualität und sorgen für eine zuverlässige Übertragung Ihrer Daten und Signale. Stöbern Sie jetzt in unserem Sortiment und finden Sie das perfekte Kabel für Ihre Anforderungen."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Secubee | Ihr Shop für Sicherheit & Haustechnik",
+            "metaDescription": "Alles für ein sicheres und komfortables Zuhause finden Sie in unserem Shop. Hier klicken und Produkte von A-Z entdecken. Einfach | Sicher | Smart",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Top Hersteller für Sicherheit & Haustechnik ",
+            "metaDescription": "Top Marken mit den besten Produkten für Ihre Sicherheit und Ihren Komfort -  Bosch • Einhell • Black+Decker • OBI • Makita • Brother uvm.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Secubee | Ihr Shop für Sicherheit & Haustechnik",
-      "metaDescription": "Alles für ein sicheres und komfortables Zuhause finden Sie in unserem Shop. Hier klicken und Produkte von A-Z entdecken. Einfach | Sicher | Smart",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Top Hersteller für Sicherheit & Haustechnik ",
-      "metaDescription": "Top Marken mit den besten Produkten für Ihre Sicherheit und Ihren Komfort -  Bosch • Einhell • Black+Decker • OBI • Makita • Brother uvm.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT: Für ein sicheres Zuhause",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl für Ihre Sicherheit & Haustechnik. Auch weitere Produkte bei uns im Shop unter $KATEGORIE online bestellen!",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "4322541",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT: Für ein sicheres Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - die beste Wahl für Ihre Sicherheit & Haustechnik. Auch weitere Produkte bei uns im Shop unter $KATEGORIE online bestellen!",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "Homematic IP Rauchwarnmelder mit Q-Label",
-              "text": "<p class=\"justify\">Der Homematic IP Rauchwarnmelder mit Q-Label (SKU 4322541) ist ein hochwertiges Produkt aus dem Bereich der Hausautomation, das Sicherheit und Schutz in jedem Heim bietet. Dieser Rauchwarnmelder der Marke Homematic IP ist mit einer GTIN13 von 4047976426850 gekennzeichnet und gehört zur Kategorie Sicherheit & Haustechnik. Er bietet innovative Funktionen und überzeugt durch Zuverlässigkeit und Langlebigkeit.</p><p class=\"justify\">Eine der herausragenden Funktionen dieses Rauchwarnmelders ist seine optische Streulicht-Sensoreinheit, die Rauchgasentwicklungen in der Raumluft zuverlässig erkennt. Im Gegensatz zu den meisten anderen Rauchwarnmeldern arbeiten alle in einem System betriebenen Rauchwarnmelder im Kollektiv zusammen. Wird also beispielsweise im Keller ein Brand detektiert, melden auch die Rauchwarnmelder in anderen Etagen und Räumen die Gefahr. Darüber hinaus warnen die Melder nicht nur akustisch per Sirene, sondern auch per eingebauter LED-Notbeleuchtung, welche gleichzeitig als Sichthilfe in stark verrauchten Räumen dienen kann.</p><p class=\"justify\">Die Stromversorgung des Homematic IP Rauchwarnmelders mit Q-Label wird durch zwei fest verbaute Lithium-Batterien gewährleistet, welche den Rauchwarnmelder für bis zu 10 Jahre mit Strom versorgen können. Dank der einfachen Erweiterbarkeit sind bis zu 40 Rauchwarnmelder mit einem Access Point betreibbar. Im Falle eines Stromausfalls bleiben die Rauchwarnmelder auch ohne Access Point direkt miteinander vernetzt und somit voll einsatzbereit.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 4 Sternen aus 422 Bewertungen zeigt sich, dass der Homematic IP Rauchwarnmelder mit Q-Label seinen Nutzern höchste Qualität und Sicherheit bietet. Investieren Sie in ein sicheres Zuhause und entscheiden Sie sich für diesen Rauchwarnmelder aus dem Hause Homematic IP.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2598795",
-        "seo": {
-          "texts": [
-            {
-              "title": "Bosch Adapter-Set Smart Home Gira Standard 3 Stück",
-              "text": "<p class=\"justify\">Das Bosch Adapter-Set Smart Home Gira Standard 3 Stück (SKU: 2598795) ist eine hochwertige Lösung für Hausfunksteuerungen und wurde speziell für die Integration in die meisten gängigen Lichtschalter entwickelt. Hergestellt von der renommierten Marke Bosch, bietet dieses Set eine intelligente Licht- und Rollladen-Steuerung, die sich optisch zurückhält und unsichtbar in das Design Ihres Smart Homes integriert werden kann. Mit der GTIN13 4057749657961 können Sie sicher sein, dass Sie ein authentisches und qualitativ hochwertiges Produkt erhalten.</p><p class=\"justify\">Die praktischen Adapter kommen im 3er-Set und sind ideal für die Aufrüstung Ihrer vorhandenen Licht- und Rollladen-Steuerungen. Sie sind zudem kompatibel mit Kreuz- und Wechselschaltungen, wobei ein Adapter je Beleuchtungsstromkreis benötigt wird. Dieses Adapter-Set ermöglicht die Kompatibilität mit Schaltern der Marke Gira Standard. Der Preis liegt bei 4,99 Euro und bei 295 Bewertungen hat das Produkt durchschnittlich 5 von 5 Sternen erhalten.</p><p class=\"justify\">Zur Vereinfachung der Integration bietet Bosch zudem einen Vor-Ort-Installationsservice, der sich um die fachgerechte Montage und Einbindung der Adapter kümmert. Damit können Sie sicher sein, dass Ihr Bosch Adapter-Set Smart Home Gira Standard 3 Stück korrekt installiert und in Ihr Smart Home-System integriert wird. Dieser Service trägt dazu bei, die Effizienz und optimale Leistung Ihres Smart Home-Systems zu gewährleisten.</p><p class=\"justify\">Entscheiden Sie sich für das Bosch Adapter-Set Smart Home Gira Standard 3 Stück, um die Leistung und Kontrolle Ihrer Hausfunksteuerung zu optimieren und gleichzeitig ein unauffälliges und stilvolles Design beizubehalten. Dieses hochwertige Produkt ist eine hervorragende Bereicherung für Ihr Smart Home und bietet die Qualität und Zuverlässigkeit, die Sie von der Marke Bosch erwarten können.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "4938346",
-        "seo": {
-          "texts": [
-            {
-              "title": "Yard Force 60 V Li-Ion Ersatzakku AL M40 mit 4 Ah - Leistungsstarke Akkulösung für Ihre Yard Force Geräte",
-              "text": "<p class=\"justify\">Der Yard Force 60 V Li-Ion Ersatzakku AL M40 mit 4 Ah (GTIN: 6939500728357) ist eine zuverlässige und langlebige Energiequelle für Ihre Yard Force Elektrowerkzeuge. Entwickelt für den Einsatz in verschiedenen Geräten, vereint dieser Akku modernste Technologie mit hoher Leistungsfähigkeit und bietet somit eine kabel- und benzinlose Stromversorgung für Ihre Yard Force Rasenmäher, Laubbläser, Freischneider, Kettensägen und Heckenscheren.</p><p class=\"justify\">Durch den Einsatz von Lithium-Ionen-Technologie wird eine besonders hohe Batteriedichte erzielt, die auch eine hohe Leistung in kompakter Bauform ermöglicht. Der Yard Force AL M40 ist mit allen Yard Force 60 V Geräten kompatibel, wodurch eine eindrucksvolle Flexibilität und Vielseitigkeit erreicht werden kann. Die hohen Voltzahlen unterstützen anwendungsgerechtes und leistungsstarkes Arbeiten, sodass Sie Ihre täglichen Aufgaben mit Leichtigkeit bewältigen können.</p><p class=\"justify\">Mit einer Ladezeit von nur ca. 60 Minuten ist der Yard Force AL M40 schnell einsatzbereit. Er ist nicht nur einfach in der Handhabung, sondern verfügt auch über ein benutzerfreundliches Design und eine einfache Kontrolle des Ladestatus. Dieser hochwertige Ersatzakku ist auch für Einsteiger leicht verständlich und anwendbar, was ihn zur idealen Lösung für den Einsatz in Ihren Yard Force Elektrowerkzeugen macht.</p><p class=\"justify\">Der Yard Force 60 V Li-Ion Ersatzakku AL M40 mit 4 Ah ist eine ausgezeichnete Wahl, um eine sichere und kabellose Energieversorgung für Ihre Garten- und Heimwerkeraufgaben sicherzustellen. Mit seinen beeindruckenden 227 Bewertungen und 5 Sternen zählt dieser Ersatzakku zu den besten Produkten in der Kategorie Akkus. Nutzen Sie die Yard Force Qualität, um Ihren Alltag zu erleichtern, und vertrauen Sie auf die Leistung und Langlebigkeit dieses Akkus für all Ihre Yard Force 60 V Geräte.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Alles für Ihr Zuhause",
-    "defaultMetaDescription": "Entdecken Sie alles zum Thema $KATEGORIE in unserem Shop. | Vielfältiges Produktsangebot | Renommierte Markenanbieter | Hochwertige Qualität",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "4322541",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Homematic IP Rauchwarnmelder mit Q-Label",
+                            "text": "<p class=\"justify\">Der Homematic IP Rauchwarnmelder mit Q-Label (SKU 4322541) ist ein hochwertiges Produkt aus dem Bereich der Hausautomation, das Sicherheit und Schutz in jedem Heim bietet. Dieser Rauchwarnmelder der Marke Homematic IP ist mit einer GTIN13 von 4047976426850 gekennzeichnet und gehört zur Kategorie Sicherheit & Haustechnik. Er bietet innovative Funktionen und überzeugt durch Zuverlässigkeit und Langlebigkeit.</p><p class=\"justify\">Eine der herausragenden Funktionen dieses Rauchwarnmelders ist seine optische Streulicht-Sensoreinheit, die Rauchgasentwicklungen in der Raumluft zuverlässig erkennt. Im Gegensatz zu den meisten anderen Rauchwarnmeldern arbeiten alle in einem System betriebenen Rauchwarnmelder im Kollektiv zusammen. Wird also beispielsweise im Keller ein Brand detektiert, melden auch die Rauchwarnmelder in anderen Etagen und Räumen die Gefahr. Darüber hinaus warnen die Melder nicht nur akustisch per Sirene, sondern auch per eingebauter LED-Notbeleuchtung, welche gleichzeitig als Sichthilfe in stark verrauchten Räumen dienen kann.</p><p class=\"justify\">Die Stromversorgung des Homematic IP Rauchwarnmelders mit Q-Label wird durch zwei fest verbaute Lithium-Batterien gewährleistet, welche den Rauchwarnmelder für bis zu 10 Jahre mit Strom versorgen können. Dank der einfachen Erweiterbarkeit sind bis zu 40 Rauchwarnmelder mit einem Access Point betreibbar. Im Falle eines Stromausfalls bleiben die Rauchwarnmelder auch ohne Access Point direkt miteinander vernetzt und somit voll einsatzbereit.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 4 Sternen aus 422 Bewertungen zeigt sich, dass der Homematic IP Rauchwarnmelder mit Q-Label seinen Nutzern höchste Qualität und Sicherheit bietet. Investieren Sie in ein sicheres Zuhause und entscheiden Sie sich für diesen Rauchwarnmelder aus dem Hause Homematic IP.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2598795",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Bosch Adapter-Set Smart Home Gira Standard 3 Stück",
+                            "text": "<p class=\"justify\">Das Bosch Adapter-Set Smart Home Gira Standard 3 Stück (SKU: 2598795) ist eine hochwertige Lösung für Hausfunksteuerungen und wurde speziell für die Integration in die meisten gängigen Lichtschalter entwickelt. Hergestellt von der renommierten Marke Bosch, bietet dieses Set eine intelligente Licht- und Rollladen-Steuerung, die sich optisch zurückhält und unsichtbar in das Design Ihres Smart Homes integriert werden kann. Mit der GTIN13 4057749657961 können Sie sicher sein, dass Sie ein authentisches und qualitativ hochwertiges Produkt erhalten.</p><p class=\"justify\">Die praktischen Adapter kommen im 3er-Set und sind ideal für die Aufrüstung Ihrer vorhandenen Licht- und Rollladen-Steuerungen. Sie sind zudem kompatibel mit Kreuz- und Wechselschaltungen, wobei ein Adapter je Beleuchtungsstromkreis benötigt wird. Dieses Adapter-Set ermöglicht die Kompatibilität mit Schaltern der Marke Gira Standard. Der Preis liegt bei 4,99 Euro und bei 295 Bewertungen hat das Produkt durchschnittlich 5 von 5 Sternen erhalten.</p><p class=\"justify\">Zur Vereinfachung der Integration bietet Bosch zudem einen Vor-Ort-Installationsservice, der sich um die fachgerechte Montage und Einbindung der Adapter kümmert. Damit können Sie sicher sein, dass Ihr Bosch Adapter-Set Smart Home Gira Standard 3 Stück korrekt installiert und in Ihr Smart Home-System integriert wird. Dieser Service trägt dazu bei, die Effizienz und optimale Leistung Ihres Smart Home-Systems zu gewährleisten.</p><p class=\"justify\">Entscheiden Sie sich für das Bosch Adapter-Set Smart Home Gira Standard 3 Stück, um die Leistung und Kontrolle Ihrer Hausfunksteuerung zu optimieren und gleichzeitig ein unauffälliges und stilvolles Design beizubehalten. Dieses hochwertige Produkt ist eine hervorragende Bereicherung für Ihr Smart Home und bietet die Qualität und Zuverlässigkeit, die Sie von der Marke Bosch erwarten können.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "4938346",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Yard Force 60 V Li-Ion Ersatzakku AL M40 mit 4 Ah - Leistungsstarke Akkulösung für Ihre Yard Force Geräte",
+                            "text": "<p class=\"justify\">Der Yard Force 60 V Li-Ion Ersatzakku AL M40 mit 4 Ah (GTIN: 6939500728357) ist eine zuverlässige und langlebige Energiequelle für Ihre Yard Force Elektrowerkzeuge. Entwickelt für den Einsatz in verschiedenen Geräten, vereint dieser Akku modernste Technologie mit hoher Leistungsfähigkeit und bietet somit eine kabel- und benzinlose Stromversorgung für Ihre Yard Force Rasenmäher, Laubbläser, Freischneider, Kettensägen und Heckenscheren.</p><p class=\"justify\">Durch den Einsatz von Lithium-Ionen-Technologie wird eine besonders hohe Batteriedichte erzielt, die auch eine hohe Leistung in kompakter Bauform ermöglicht. Der Yard Force AL M40 ist mit allen Yard Force 60 V Geräten kompatibel, wodurch eine eindrucksvolle Flexibilität und Vielseitigkeit erreicht werden kann. Die hohen Voltzahlen unterstützen anwendungsgerechtes und leistungsstarkes Arbeiten, sodass Sie Ihre täglichen Aufgaben mit Leichtigkeit bewältigen können.</p><p class=\"justify\">Mit einer Ladezeit von nur ca. 60 Minuten ist der Yard Force AL M40 schnell einsatzbereit. Er ist nicht nur einfach in der Handhabung, sondern verfügt auch über ein benutzerfreundliches Design und eine einfache Kontrolle des Ladestatus. Dieser hochwertige Ersatzakku ist auch für Einsteiger leicht verständlich und anwendbar, was ihn zur idealen Lösung für den Einsatz in Ihren Yard Force Elektrowerkzeugen macht.</p><p class=\"justify\">Der Yard Force 60 V Li-Ion Ersatzakku AL M40 mit 4 Ah ist eine ausgezeichnete Wahl, um eine sichere und kabellose Energieversorgung für Ihre Garten- und Heimwerkeraufgaben sicherzustellen. Mit seinen beeindruckenden 227 Bewertungen und 5 Sternen zählt dieser Ersatzakku zu den besten Produkten in der Kategorie Akkus. Nutzen Sie die Yard Force Qualität, um Ihren Alltag zu erleichtern, und vertrauen Sie auf die Leistung und Langlebigkeit dieses Akkus für all Ihre Yard Force 60 V Geräte.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Alles für Ihr Zuhause",
+        "defaultMetaDescription": "Entdecken Sie alles zum Thema $KATEGORIE in unserem Shop. | Vielfältiges Produktsangebot | Renommierte Markenanbieter | Hochwertige Qualität",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER | Produkte günstig kaufen auf secubee.de",
+        "defaultMetaDescription": "Wir liefern Ihnen eine riesige Auswahl an top Herstellern wie $HERSTELLER. Hier klicken und schnell für Sicherheit und Komfort in Ihrem Zuhause sorgen!",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Sicherheit & Haustechnik",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Sicherheit & Haustechnik Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Sicherheit & Haustechnik Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER | Produkte günstig kaufen auf secubee.de",
-    "defaultMetaDescription": "Wir liefern Ihnen eine riesige Auswahl an top Herstellern wie $HERSTELLER. Hier klicken und schnell für Sicherheit und Komfort in Ihrem Zuhause sorgen!",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Sicherheit & Haustechnik",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Sicherheit & Haustechnik Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Sicherheit & Haustechnik Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
